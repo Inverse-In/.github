@@ -1,51 +1,35 @@
-# Genda: Revolutionizing Mobility in Rwanda
+# Inverse: Revolutionizing Cross-Border Payments in Africa
 
-Welcome to the Genda repository on GitHub! Here you'll find the codebase for our pioneering ride-sharing platform that aims to transform transportation in Rwanda.
+## About Us
 
-## About Genda
+Inverse is not just another fintech company. We're building a new path for financial services in Africa that's faster, cheaper, and more inclusive than ever. Our name reflects our mission: to create financial solutions opposite to the conventional, going against the grain to offer something genuinely transformative.
 
-Genda is more than just a ride-sharing platform; it's a movement towards safe, affordable, and convenient mobility solutions tailored to the unique needs of Rwandan commuters. Our mission is to empower individuals and communities by providing seamless and sustainable transportation options.
+## Our Mission
 
-## Key Features
+Our mission is to break down financial barriers across Africa, empowering individuals and businesses with seamless access to the global economy.
 
-- **Safe and Convenient Transportation**: Prioritize user safety and convenience with every ride.
-- **Affordable Pricing**: Offer competitive rates to ensure accessibility for all.
-- **Community Empowerment**: Create job opportunities for drivers and improve mobility options for all.
+## What We Offer
 
-## Getting Started
+- **Multi-Currency Wallets**: Hold and transact in multiple currencies without conversion hassles.
+- **Peer-to-Peer Payments**: Send money instantly across Africa at a fraction of the cost.
+- **International Remittances**: Receive money from abroad quickly and affordably.
+- **Virtual Cards**: Shop online globally with our secure virtual cards.
+- **Agent Network**: Be part of our human agent network, providing cash services to users.
+- **Business Solutions**: Streamline payments, invoicing, and cross-border business transactions.
 
-To get started with Genda, follow these steps:
+## Our Vision
 
-1. **Clone the Repository**: `git clone *the repo you want to work with`
-3. **Set Up Environment**: Refer to our documentation for environment configuration.
-2. **Install Dependencies**: `pip install -r requirements.txt` or `flutter pub install `
-4. **Run the Application**: `python manage.py runserver` or `flutter run`
-5. **Please remember to check each repository for its installation guidelines**
+We envision a future where every African can access affordable, efficient financial services. Where sending money across borders is as easy as sending a text message. Where financial inclusion drives economic growth and prosperity across the continent.
 
-## How to Contribute
+## Why Choose Inverse
 
-We welcome contributions from developers of all skill levels. If you'd like to contribute to Genda, please follow these guidelines:
+- **Low Fees**: Just 1% for all transactions - no hidden costs.
+- **Real-Time Transactions**: Say goodbye to waiting days for your money to arrive.
+- **No Bank Account Needed**: Access financial services without traditional banking.
+- **User-Friendly**: Simple, intuitive interface for seamless transactions.
+- **Secure and Compliant**: Bank-grade security and full regulatory compliance.
 
-1. **Fork the Repository**: Click the 'Fork' button in the top-right corner of this repository.
-2. **Create a Branch**: `git checkout -b feature/NewFeature`
-3. **Make Changes**: Make your changes and ensure they align with our [contribution guidelines](CONTRIBUTING.md).
-4. **Push Changes**: `git push origin feature/NewFeature`
-5. **Submit a Pull Request**: Go to the Pull Requests tab and click 'New Pull Request'.
+## Contact Us
 
-## Feedback and Support
 
-We value your feedback! If you have any questions, suggestions, or encounter any issues, please don't hesitate to [open an issue]() or reach out to us via email at genda.company.rw@gmail.com.
-
-## Stay Connected
-
-Stay updated with the latest news, features, and community events by following us on social media:
-
-- [Twitter]()
-- [Facebook]()
-- [Instagram]()
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
+Join us in transforming Africa's financial landscape, one transaction at a time!
